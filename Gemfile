@@ -45,5 +45,5 @@ group :development do
   gem 'spring'
 end
 
-  # stylesheets gem for materialize css framework 
+  # stylesheets gem for materialize css framework
 gem 'materialize-sass', '~> 0.97.1'
